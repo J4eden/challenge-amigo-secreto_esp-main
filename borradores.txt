@@ -1,0 +1,22 @@
+metodo forEach
+
+
+amigos.forEach(amigo => 
+                                {
+                                    let li = document.createElement('li');
+                                    li.textContent = amigo;
+                                    listaAmigosUl.appendChild(li);
+                                } 
+                            )
+
+
+function actualizarLista()
+        {
+            //Obtener el elemento de la lista
+            let listaAmigos = document.getElementById('listaAmigos')
+            //Limpiar la lista existente
+            listaAmigos.innerHTML = ''
+            //Iterar sobre el arreglo
+            for 
+            //Agregar elementos a la lista
+        }
