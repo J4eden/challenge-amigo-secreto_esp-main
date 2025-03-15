@@ -3,12 +3,6 @@
 let amigos = [];
 let amigoNuevo=1;
 
-//function asignarTextoElemento(elemento, texto)
-        {
-            let elementoHTML = document.querySelector(elemento);
-            elementoHTML.innerHTML = texto;
-            return;
-        }
 
 
 function agregarAmigo()
@@ -30,6 +24,8 @@ function agregarAmigo()
         let valorCaja = document.getElementById('amigo');
             valorCaja.value = '';
         }
+
+
 
 agregarAmigo();
 
