@@ -1,2 +1,4 @@
-<h1 align="center"> Amigo Secreto </h1>
-![Texto del párrafo](https://github.com/user-attachments/assets/65615ce5-d3aa-4adf-8ed3-8473cc7050ba)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/12f5162c-891e-40fb-aab0-006747d0974e">
+</p>
+![AMIGO SECRETO]()
